@@ -1,0 +1,23 @@
+{
+  "name": "acm2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikashvnit/acm2020.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikashvnit/acm2020/issues"
+  },
+  "homepage": "https://github.com/vikashvnit/acm2020#readme",
+  "dependencies": {
+    "tailwindcss": "^2.0.1"
+  }
+}

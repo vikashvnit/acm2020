@@ -1,0 +1,4 @@
+We are trying to implement tailwindcss. 
+we are creating index file in public folder
+we will create src folder and it will contain styles.css file which will contain tailwind base, components and utilities
+we will have a pakage.json file where we will scripts
